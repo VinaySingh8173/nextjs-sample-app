@@ -23,7 +23,7 @@ export default function Header() {
         </Link>
         </li>
          <li>
-         <Link href="/course">
+         <Link href="/contact">
         Contact
         </Link>
         </li>
