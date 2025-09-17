@@ -22,6 +22,11 @@ export default function Header() {
         Course
         </Link>
         </li>
+         <li>
+         <Link href="/course">
+        Contact
+        </Link>
+        </li>
     </ul>
       </main>
     </header>
